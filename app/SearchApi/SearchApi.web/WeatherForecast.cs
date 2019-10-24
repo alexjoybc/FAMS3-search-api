@@ -1,6 +1,6 @@
 using System;
 
-namespace SearchApi.web
+namespace SearchApi.Web
 {
     public class WeatherForecast
     {
